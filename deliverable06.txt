@@ -1,0 +1,15 @@
+Screenshots show that password complexity minimum criteria :
+Minimum 8 characters in length
+Contains 3/4 of the following items:
+- Uppercase Letters
+- Lowercase Letters
+- Numbers
+- Symbols
+Greatly improves the strength of the password making it harder to crack.
+
+Best practices and tips learned from evaluation:
+1. Use a mix of uppercase, lowercase, numbers, and special characters.
+2. Make passwords at least 12 characters long and avoid common words or patterns.
+3. Use unique passwords for different accounts and enable a password manager if needed.
+
+Higher password complexity makes it harder for attackers to guess or crack passwords using brute-force or dictionary attacks, increasing overall security.
